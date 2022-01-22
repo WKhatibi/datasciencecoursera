@@ -1,0 +1,14 @@
+---
+title: "Helloworld"
+author: "Wafaa Khatibi"
+date: "1/22/2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is a Markdown file. 
